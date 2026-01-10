@@ -1,16 +1,13 @@
-## Hi there 👋
+# Software Engineer
 
-<!--
-**va-an/va-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building blockchain infrastructure and tooling in Rust at [@haqq-network](https://github.com/haqq-network).
 
-Here are some ideas to get you started:
+### Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Bitcoin Development Kit](https://github.com/bitcoindevkit)** — contributor
+- [Taproot support for Miniscript compilation](https://github.com/bitcoindevkit/bdk-cli/pull/208)
+- [Unspendable Taproot key generation (BIP-341)](https://github.com/bitcoindevkit/bdk-cli/pull/225)
+
+### Links
+
+- [Resume](https://vaan.io/resume.pdf)
